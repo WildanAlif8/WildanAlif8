@@ -42,7 +42,7 @@ Hi! My name is Muhammad Wildan Alif, I'm from Indonesia. I'm a passionate Web De
 ---
 
 ## 📫 Connect With Me
-- ✉ Email: *muhammadwildanalif@gmail.com*  
+- ✉ Email: *wildanalif00@gmail.com*  
 - 🌐 Portfolio: [portofolio-wildan](https://portofolio-wildan-eight.vercel.app/)  
 - 💼 LinkedIn: [Muhammad Wildan Alif](https://www.linkedin.com/in/muhammad-wildan-alif-588ab321b/)  
 
