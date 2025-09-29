@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammad Wildan Alif!
+# 👋 Hello, I'm Muhammad Wildan Alif
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=550&lines=Web+Developer;Backend+Developer)](https://git.io/typing-svg)
 
